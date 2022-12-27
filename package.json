@@ -1,0 +1,18 @@
+{
+  "name": "swaggerui-node",
+  "version": "1.0.0",
+  "description": "swagger-ui node",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Joaquin Cejas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "swagger-ui-express": "^4.6.0"
+  }
+}
